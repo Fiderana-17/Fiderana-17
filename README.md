@@ -15,3 +15,12 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,py,tailwind,docker,git,linux,bash,postgres,postman&perline=7" />
   </a>
 </p>
+
+### 🔥 Workflow
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+</p>
