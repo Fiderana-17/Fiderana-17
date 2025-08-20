@@ -24,3 +24,13 @@
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 </p>
+
+# 📊 GitHub Stats:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiderana-17&layout=compact&langs_count=8&theme=radical&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fiderana-17&show_icons=true&theme=radical&include_all_commits=true&count_public=true&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Fiderana-17&theme=radical&hide_border=true&date_format=j%20M[%20Y]" alt="streak stats" />
+</div>
