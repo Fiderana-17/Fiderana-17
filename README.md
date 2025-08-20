@@ -49,3 +49,9 @@
 <div align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=Fiderana-17&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="top repos" />
 </div>
+
+---
+
+<p align="center"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" />
+</p>
