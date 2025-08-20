@@ -34,3 +34,18 @@
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Fiderana-17&theme=radical&hide_border=true&date_format=j%20M[%20Y]" alt="streak stats" />
 </div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Fiderana-17&theme=onedark&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="trophies" />
+</div>
+
+## ✨ Highlights
+<div align="center">
+  <img src="github-readme-activity-graph.vercel.app/graph?username=Fiderana-17&theme=react-dark&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+### 🔝 Top Contributed Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Fiderana-17&limit=5&theme=dracula&combine_all_yearly_contributions=true" alt="top repos" />
+</div>
